@@ -54,6 +54,6 @@ get();
 Make sure to install the required dependencies using:
 
 ```bash
-npm install sheet.db
+npm install @sihilelh/gsheet.db
 ```
 2023 ~ Sihilel H
