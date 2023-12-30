@@ -10,7 +10,7 @@ This is a simple wrapper for interacting with Google Sheets using the provided `
 
 ## Usage
 ```js
-const Sheet = require("./index");
+const Sheet = require("@sihilelh/gsheet.db");
 
 // Set up the Google Sheets API
 let dataSheet = new Sheet(
