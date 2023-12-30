@@ -59,4 +59,4 @@ function get() {
      */
 }
 
-get();
+dataSheet.reload(); // Once we construct the sheet object the data will be stored locally soo if something updated we need to call this function

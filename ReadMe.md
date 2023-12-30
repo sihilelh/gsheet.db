@@ -9,7 +9,7 @@ This is a simple Node.js wrapper for interacting with Google Sheets using the pr
 3. The sheet name is the name displayed in the bottom left corner.
 
 ## Usage
-```
+```js
 const Sheet = require("./index");
 
 // Set up the Google Sheets API
