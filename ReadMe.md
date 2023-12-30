@@ -1,6 +1,6 @@
 # Google Sheets Wrapper
 
-This is a simple Node.js wrapper for interacting with Google Sheets using the provided `Sheet` class. It allows you to perform common operations such as retrieving all data or getting data based on specific conditions.
+This is a simple wrapper for interacting with Google Sheets using the provided `Sheet` class. It allows you to perform common operations such as retrieving all data or getting data based on specific conditions.
 
 ## Setup
 

@@ -6,7 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "Google Sheet",
+    "sheet.db",
+    "Google Sheet DB"
+  ],
+  "author": "Sihilel H",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sihilelh/sheet.db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sihilelh/sheet.db/issues"
+  },
+  "homepage": "https://github.com/sihilelh/sheet.db#readme"
 }
