@@ -1,5 +1,5 @@
 {
-  "name": "sheet.db",
+  "name": "gsheet.db",
   "version": "1.0.0",
   "description": "A simple package to retrieve google sheet data anywhere.",
   "main": "index.js",
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sihilelh/sheet.db.git"
+    "url": "git+https://github.com/sihilelh/gsheet.db.git"
   },
   "bugs": {
-    "url": "https://github.com/sihilelh/sheet.db/issues"
+    "url": "https://github.com/sihilelh/gsheet.db/issues"
   },
-  "homepage": "https://github.com/sihilelh/sheet.db#readme"
+  "homepage": "https://github.com/sihilelh/gsheet.db#readme"
 }
