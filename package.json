@@ -1,6 +1,6 @@
 {
   "name": "@sihilelh/gsheet.db",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple package to retrieve google sheet data anywhere.",
   "main": "index.js",
   "scripts": {

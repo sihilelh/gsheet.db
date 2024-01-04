@@ -133,7 +133,7 @@ class Sheet {
       const lines = csv.split("\n");
       const header = lines.shift().split(",");
       lines.forEach((line) => {
-        const row = line.split(",");
+        const row = line.substring(1).slice(0, -1).split(`","`);
         if (row.length === header.length) {
           const rowData = {};
           header.forEach((key, index) => {
